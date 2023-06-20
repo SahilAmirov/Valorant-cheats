@@ -1,0 +1,6 @@
+{
+    "port": "COM4",
+    "board": "arduino:avr:leonardo",
+    "programmer": "avrispmkii",
+    "sketch": "scripts\\arduino-contact\\arduino-contact.ino"
+}
